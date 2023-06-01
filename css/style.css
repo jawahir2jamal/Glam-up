@@ -1,0 +1,43 @@
+#hhead{
+    text-align: center;
+    margin-top: 20px;
+    color:maroon;
+    font-family:initial;
+}
+#creatreg{
+    border: 2px solid none;
+    width: 400px;
+    height: 450px;
+    margin-left: 550px;
+    margin-top: 150px;
+    padding-left: 20px;
+    text-align: center;
+}
+#main{
+    background-image: url(/project/static/bckbg.jpg) ;
+    background-size: cover;
+}
+#login{
+    border: 2px solid none; 
+    width: 400px;
+    height: 300px;  
+    margin-left: 550px;
+    margin-top: 150px;
+    text-align: center;
+}
+#atag{
+    text-decoration: none;
+}
+#inp{
+    width: 300px;
+
+}
+#logo{
+    width: 100px;
+    height: 70px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(4, 58, 4);
+    
+}
